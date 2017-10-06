@@ -1,0 +1,35 @@
+container {
+    width: 100%;
+    border: 5px black;
+}
+
+header{
+    padding: 8em;
+    color: white;
+    background-color: red;
+    clear: left;
+    text-align: left;
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: yellow;
+    clear: left;
+    text-align: left;
+}
+nav {
+	background-color:green;
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+article {
+	background-color:blue;
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}

@@ -1,0 +1,35 @@
+container {
+	height:500px;
+    width: 500px;
+    padding: 20px black;
+}
+
+header{
+    height:00px;
+    width: 500px;
+    background-color: red;
+    text-align: left;
+}
+
+footer {
+    padding: 1em;
+    color: black;
+    background-color: yellow;
+    clear: left;
+    text-align: left;
+}
+nav{
+	background-color:green;
+    height:400px;
+    width: 150px;
+    padding: 1em;
+	float:left;
+	
+}
+
+main {
+	background-color:blue;
+    height:400px;
+    width: 350px;
+   float:right;
+}
